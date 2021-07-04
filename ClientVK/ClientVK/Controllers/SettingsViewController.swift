@@ -14,7 +14,7 @@ class SettingsViewController: UIViewController {
 
         let session = Session.shared
         nameLabel.text = session.name
-        idLabel.text = String(describing: session.id)
+        idLabel.text = String(describing: session.userID)
         tokenLabel.text = session.token
         
     }

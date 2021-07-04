@@ -14,7 +14,7 @@ final class Session {
     private init(){}
     
     var name = ""
-    var id = 0
+    var userID = ""
     var token = ""
     
 }
