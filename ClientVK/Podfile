@@ -7,6 +7,7 @@ target 'ClientVK' do
 
 
 	pod 'Alamofire', '~> 5.1'
+	pod 'SDWebImage', '~> 5.0'
 
   # Pods for ClientVK
 
